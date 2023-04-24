@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 import java.io.InputStream;
 import java.util.List;
 
-@Profile("!production")
+@Profile("!dev")
 @Component
 public class DataLoader implements CommandLineRunner {
 

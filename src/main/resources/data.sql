@@ -1,2 +1,2 @@
 INSERT INTO Content( title, description, status, content_type, date_created,  date_updated, url)
-values ('My Spring Boot Data Blog Post', 'Aost', 'IDEA', 'ARTICLE', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, 'url'); 
+values ('My Spring Boot Data Blog Post', 'My Description', 'IDEA', 'ARTICLE', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, 'url'); 
